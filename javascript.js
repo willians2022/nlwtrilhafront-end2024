@@ -129,11 +129,7 @@ const salvarAtividade = (event) => {
 
 const criarDiasSelecao = () => {
     const dias = [
-        '2024-07-08',
-        '2024-07-09',
-        '2024-07-10',
-        '2024-07-11',
-        '2024-07-12',
+        
     ]
 
     let diasSelecao = ''
