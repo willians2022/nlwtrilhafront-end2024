@@ -1,3 +1,3 @@
 # projeto com fundamento web  em html , css , java Script . 
-# o projeto basico para ajudar as pessoas sem muito para atividades .
+# o projeto para ajudar as pessoas se organizar nas  atividades .
 # planejador de atividades para viajar .
